@@ -1,1 +1,3 @@
 echo # podstProgramPracaZesp22
+
+Nikola Kostrzewa - Podstawy programowania, GL01
