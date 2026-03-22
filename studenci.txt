@@ -1,1 +1,3 @@
 echo # podstProgramPracaZesp22
+
+Kamil Makarenko - Podstawy Programowania, GL01
